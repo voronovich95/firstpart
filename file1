@@ -12,3 +12,8 @@ This is the thrird changing to this file
 main info
 I try to edit this file and after that I want to pull all changing to my local repository
 This is the thrird changing to this file
+
+| LEFT | CENTER | RIGHT |
+|----------------|:---------:|----------------:|
+| По левому краю | По центру | По правому краю |
+| текст | текст | текст |
